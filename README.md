@@ -56,7 +56,6 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 ## Evergreen resources 🌲
 
 - [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript Tutorial - W3Schools](https://www.w3schools.com/js/)
 - [Questions tagged "javascript" - Stack Overflow](https://stackoverflow.com/questions/tagged/javascript)
 - [ECMAScript 6: Features](http://es6-features.org/)
 - [ES6 - Wes Bos](https://wesbos.com/category/es6/)
