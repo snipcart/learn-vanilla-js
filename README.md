@@ -35,6 +35,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do) by [Douglas Crockford](http://www.crockford.com/) 💰
 - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do) by [David Flanagan](https://twitter.com/__DavidFlanagan) 💰
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) 💰
+- [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
 
 ## Courses 🎒
 
@@ -52,6 +53,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Modular Javascript](https://www.awesomecodingvideos.com/modular-javascript/) by [LearnCode.academy](https://twitter.com/learncodeacad)
 - [Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript) on Treehouse 💰
 - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) on Lynda 💰
+- [Vanilla JavaScript Academy](https://vanillajsacademy.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
 
 ## Evergreen resources 🌲
 
@@ -64,7 +66,8 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [WTF JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 - [Learn JavaScript Collection - Codementor](https://www.codementor.io/collections/learn-javascript-bwbck52i3)
-- [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi)
+- [Vanilla JS Toolkit](https://vanillajstoolkit.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi)
+
 
 ## Communities 💬
 
@@ -85,5 +88,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Syntax.fm](https://syntax.fm/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Awesome JS on LibHunt](https://js.libhunt.com/)
+- [Go Make Things](https://gomakethings.com/)
+- [Vanilla JS Podcast](https://vanillajspodcast.com/)
 
 **Happy coding! 😊**
