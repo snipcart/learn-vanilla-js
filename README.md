@@ -36,6 +36,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596805531.do) by [David Flanagan](https://twitter.com/__DavidFlanagan) 💰
 - [Secrets of the JavaScript Ninja](https://www.manning.com/books/secrets-of-the-javascript-ninja-second-edition) 💰
 - [Vanilla JavaScript Pocket Guides](https://vanillajsguides.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
+- [Speaking JavaScript (ES5)](http://speakingjs.com/es5/) by [Dr. Axel Rauschmayer](https://twitter.com/rauschma)
 
 ## Courses 🎒
 
