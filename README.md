@@ -69,6 +69,10 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Vanilla JS Toolkit](https://vanillajstoolkit.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi)
 - [The Modern JavaScript Tutorial](https://javascript.info)
 
+## Noteworthy articles ✍️
+
+- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
+
 
 ## Communities 💬
 
