@@ -68,6 +68,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Learn JavaScript Collection - Codementor](https://www.codementor.io/collections/learn-javascript-bwbck52i3)
 - [Vanilla JS Toolkit](https://vanillajstoolkit.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi)
 - [The Modern JavaScript Tutorial](https://javascript.info)
+- [Learn JavaScript Basics by Directing a Construction Site](http://www.codeanalogies.com/jsconstruction/)
 
 ## Noteworthy articles ✍️
 
