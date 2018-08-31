@@ -73,7 +73,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 ## Noteworthy articles ✍️
 
 - [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
-
+- [JavaScript Beginner? Start Here (Exercises Included)](https://snipcart.com/blog/javascript-beginner-intro-exercises)
 
 ## Communities 💬
 
