@@ -54,6 +54,8 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript) on Treehouse 💰
 - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) on Lynda 💰
 - [Vanilla JavaScript Academy](https://vanillajsacademy.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
+- [Todo List App (TodoMVC) Complete Tutorial](https://github.com/dwyl/todomvc-vanilla-javascript-example "Free beginner-friendly step-by-step example with TDD tests")
+by [**@dwyl**](https://github.com/dwyl)
 
 ## Evergreen resources 🌲
 
