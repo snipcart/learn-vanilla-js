@@ -73,6 +73,7 @@ by [**@dwyl**](https://github.com/dwyl)
 - [The Modern JavaScript Tutorial](https://javascript.info)
 - [Learn JavaScript Basics by Directing a Construction Site](http://www.codeanalogies.com/jsconstruction/)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts) by [Leonardo Maldonado](https://twitter.com/leonardomso)
+- [functions.js](https://github.com/theIYD/functions.js) by [theIYD](https://github.com/theIYD)
 
 ## Noteworthy articles ✍️
 
