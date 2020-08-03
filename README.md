@@ -26,7 +26,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 2. [Watch this](https://www.udemy.com/understand-javascript/) 💰
 3. [Read this](https://github.com/getify/You-Dont-Know-JS)
 
-***
+---
 
 ## Books 📚
 
@@ -42,6 +42,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) by [Anthony Alicea](https://twitter.com/anthonypalicea) 💰
 - [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/) by [Brad Traversy](https://twitter.com/traversymedia) 💰
 - [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/) by [Kyle Simpson](https://twitter.com/getify) 💰
+- [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by [Dev Ed](https://twitter.com/developedbyed) 💰
 - [JavaScript 30](https://javascript30.com/) by [Wes Bos](https://twitter.com/wesbos)
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript) by [Gordon Zhu](https://twitter.com/gordon_zhu)
 - [Learn JavaScript ES6](https://www.awesomecodingvideos.com/learn-javascript-es6-by-the-net-ninja/) by [TheNetNinja](https://twitter.com/thenetninjauk)
@@ -55,7 +56,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) on Lynda 💰
 - [Vanilla JavaScript Academy](https://vanillajsacademy.com/) by [Chris Ferdinandi](https://twitter.com/ChrisFerdinandi) 💰
 - [Todo List App (TodoMVC) Complete Tutorial](https://github.com/dwyl/todomvc-vanilla-javascript-example "Free beginner-friendly step-by-step example with TDD tests")
-by [**@dwyl**](https://github.com/dwyl)
+  by [**@dwyl**](https://github.com/dwyl)
 - [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) by [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
 - [JavaScript Courses](https://www.udemy.com/topic/javascript/) by [Udemy](https://www.udemy.com/) 💰
 
