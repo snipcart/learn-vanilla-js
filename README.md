@@ -1,6 +1,6 @@
 # Learn Vanilla JavaScript
 
-![vanilla-js](https://snipcart.com/media/203715/vanilla-js.jpeg)
+![vanilla-js](https://user-images.githubusercontent.com/2788192/141443411-e7fbdea4-f8cf-4aa0-8347-526a47fa9197.png)
 
 An open source list of paid &amp; free resources to learn vanilla JavaScript.
 
