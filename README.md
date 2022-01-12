@@ -1,6 +1,6 @@
-# Learn Vanilla JavaScript
+# Learn JavaScript
 
-![vanilla-js](https://snipcart.com/media/203715/vanilla-js.jpeg)
+![JaavaScript logo](https://www.datocms-assets.com/48401/1637694888-javascript-logo.svg)
 
 An open source list of paid &amp; free resources to learn vanilla JavaScript.
 
