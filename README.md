@@ -1,6 +1,8 @@
 # Learn JavaScript
 
-![JaavaScript logo](https://www.datocms-assets.com/48401/1637694888-javascript-logo.svg)
+<img src="https://www.datocms-assets.com/48401/1637694888-javascript-logo.svg" alt="JavaScript logo" width="300" />
+
+
 
 An open source list of paid &amp; free resources to learn vanilla JavaScript.
 
