@@ -43,7 +43,9 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 
 - [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) by [Anthony Alicea](https://twitter.com/anthonypalicea) 💰
 - [Modern JavaScript From The Beginning](https://www.udemy.com/modern-javascript-from-the-beginning/) by [Brad Traversy](https://twitter.com/traversymedia) 💰
-- [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/) by [Kyle Simpson](https://twitter.com/getify) 💰
+- [Getting Started with JavaScript](https://frontendmasters.com/courses/getting-started-javascript-v2/) by [Kyle Simpson](https://twitter.com/getify)
+- [JavaScript: The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts-v2/) by [Will Sentance](https://twitter.com/willsentance) 💰
+- [JavaScript Learning Path](https://frontendmasters.com/learn/javascript/) by [Frontend Masters](https://frontendmasters.com/) 💰
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by [Dev Ed](https://twitter.com/developedbyed) 💰
 - [JavaScript 30](https://javascript30.com/) by [Wes Bos](https://twitter.com/wesbos)
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript) by [Gordon Zhu](https://twitter.com/gordon_zhu)
