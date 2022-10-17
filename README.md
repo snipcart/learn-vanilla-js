@@ -46,7 +46,7 @@ An open source list of paid &amp; free resources to learn vanilla JavaScript.
 - [Introduction to JavaScript Programming](https://frontendmasters.com/courses/javascript-basics/) by [Kyle Simpson](https://twitter.com/getify) 💰
 - [The Creative Javascript Course](https://developedbyed.com/p/the-creative-javascript-course) by [Dev Ed](https://twitter.com/developedbyed) 💰
 - [JavaScript 30](https://javascript30.com/) by [Wes Bos](https://twitter.com/wesbos)
-- [Practical JavaScript](https://watchandcode.com/p/practical-javascript) by [Gordon Zhu](https://twitter.com/gordon_zhu)
+- [Watch and Code](https://watchandcode.com) by [Gordon Zhu](https://twitter.com/gordon_zhu) 💰
 - [Learn JavaScript ES6](https://www.awesomecodingvideos.com/learn-javascript-es6-by-the-net-ninja/) by [TheNetNinja](https://twitter.com/thenetninjauk)
 - [Intro to JavaScript: Fundamentals of the JavaScript Syntax](https://www.udacity.com/course/intro-to-javascript--ud803) on Udacity
 - [Learn JavaScript: The Complete Guide](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112) on Envato Tuts+
